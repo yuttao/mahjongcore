@@ -1,3 +1,3 @@
-module github.com/yuttao/maxwell-mahjong-core
+module github.com/yuttao/mahjongcore
 
 go 1.18
