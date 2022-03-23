@@ -11,5 +11,5 @@ func (g *Game) StartGame(room string) {
 }
 
 func (g *Game) PrintGameState() {
-	fmt.Println("Room name" + g.Room)
+	fmt.Println("Room name: " + g.Room)
 }
